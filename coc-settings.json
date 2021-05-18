@@ -1,0 +1,25 @@
+{
+  "coc.preferences.extensionUpdateCheck": "weekly",
+  "coc.preferences.formatOnType": true,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "go",
+    "python",
+    "markdown",
+    "json",
+    "c",
+    "cpp",
+    "h",
+    "hpp"
+  ],
+  "coc.source.file.ignoreHidden": false,
+  "git.addGBlameToVirtualText": true,
+  "git.semanticCommit.scope": true,
+  // "signature.target": "echo",
+  "diagnostic.virtualText": true,
+  "diagnostic.checkCurrentLine": true,
+  "diagnostic.separateRelatedInformationAsDiagnostics": true,
+  "suggest.timeout": 5000,
+  "python.formatting.provider": "yapf",
+  "explorer.icon.enableVimDevicons": true,
+  "coc.preferences.currentFunctionSymbolAutoUpdate": true
+}
